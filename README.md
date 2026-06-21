@@ -1,4 +1,4 @@
-# thesis-humanize
+# chinese-academic-humanize
 
 针对中文学术写作场景，降低学术文本中 AI 生成“味道”的 Agent Skills。覆盖以下模式：夸大的象征意义、宣传性语言、以 -ing 结尾的肤浅分析、模糊归因、破折号过度使用、三段式法则、AI 高频词汇、否定式排比、过多连接性短语等。
 
